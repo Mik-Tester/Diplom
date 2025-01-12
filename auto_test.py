@@ -1,3 +1,5 @@
+# Михаил Кононов, 25А когорта — Финальный проект. Инженер по тестированию плюс
+
 import sender_stand_request
 from data import orders_body
 
